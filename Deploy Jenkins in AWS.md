@@ -1,5 +1,4 @@
 # Deploy Jenkins on AWS EC2 in Windows
-[My Deployed Instance](http://ec2-3-109-185-235.ap-south-1.compute.amazonaws.com:8080/login?from=%2F)
 ## Create EC2 Instance in AWS
 1. Sign in to the AWS Account.
 2. Head to Instance in the AWS Dashboard. [Reference](https://www.google.com/search?q=create+ec2+instance+2023&sca_esv=560305232&rlz=1C1CHBF_enIN962IN963&biw=1536&bih=707&tbm=vid&sxsrf=AB5stBgTOmnsWP7o6hjj5Br1p6bk1lzOPQ%3A1693043943986&ei=58zpZLDoO_qtseMPj4y2iAI&ved=0ahUKEwjw9_qWiPqAAxX6VmwGHQ-GDSEQ4dUDCA0&uact=5&oq=create+ec2+instance+2023&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhhjcmVhdGUgZWMyIGluc3RhbmNlIDIwMjMyBRAhGKABSMULUHlYzAlwAHgAkAEAmAHCAaABnweqAQMwLja4AQPIAQD4AQHCAgQQIxgnwgIFEAAYgATCAggQABiKBRiRAsICBxAAGIoFGEPCAggQIRgWGB4YHYgGAQ&sclient=gws-wiz-video#fpstate=ive&vld=cid:5aef662e,vid:0Gz-PUnEUF0)
