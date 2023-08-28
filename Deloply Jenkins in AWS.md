@@ -56,4 +56,5 @@ sudo apt-get install jenkins
 *  Unlock Jenkins is prompted in the Screen. To get the password, Copy the path displayed and paste in PowerShell or Terminal with `sudo cat/your copied path`.
 *  Once you hit enter you will get the required password, copy and paste it and hit enter and now the jenkins console is accessable.
 # You have Succssfully Deployed Jenkins on your Ec2 Instance.
-![Deployed Jenkins Interface)](https://github.com/samyukthavenugopal/AWS-DevOps/assets/71750386/c5936a68-78e2-425a-b649-76f29778a293)
+![Deployed Jenkins Interface](https://github.com/samyukthavenugopal/AWS-Projects/assets/71750386/c67cb5d8-64ef-4653-8afe-5466e6f9fc82)
+
